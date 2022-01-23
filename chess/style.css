@@ -5,24 +5,22 @@
  top:0px;
  left:0px; 
  padding: 10px;
- margin:0px;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  background-color: DarkSeaGreen;
  width:100%;
- background-color: DarkSeaGreen;
  text-align:center; 
  z-index:10;
+  font-family: 'AlphabuttsRegular';
+  font-weight: normal;
+   font-style: normal;
 }
 
 
 
 h1 {
   color: LavenderBlush;
-   text align:center;
-   font-family: 'AlphabuttsRegular';
-   font-weight: normal;
-   font-style: normal;
-  margin-top: 0.67em;
-  margin-bottom: 0.67em;
-  background-color: DarkSeaGreen;
+
 }
 
 .row{
