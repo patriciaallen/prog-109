@@ -7,7 +7,8 @@ body {
     top:0px;
     left:0px;
     padding:10px;
-    margin:0px;
+    margin-top:4px;
+    margin-bottom: 10px;
     width:100%;
     background-color:#8d9274;
     text-align:center;
@@ -26,10 +27,7 @@ body {
     #container {
     width: 700px;
     height: 600px;
-    margin-top:20%;
-    margin-left:10%;
-    margin-right:10%;
-    margin-bottom:5%;
+    margin: auto;
     }
     
     .row{
