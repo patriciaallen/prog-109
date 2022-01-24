@@ -24,7 +24,7 @@ body {
     }
     
     #container {
-    width: 600px;
+    width: 700px;
     height: 600px;
     margin-top:20%;
     margin-left:10%;
@@ -34,8 +34,8 @@ body {
     
     .row{
     position:relative;
-    width: 600px;
-    height: 75px;
+    width: 700px;
+    height: 12.5%;
     margin-left:10%;
     margin-right:10%;
     }
