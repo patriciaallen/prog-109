@@ -28,6 +28,7 @@ body {
     width: 700px;
     height: 600px;
     margin: auto;
+    border-collapse: collapse;
     }
     
     .row{
@@ -40,16 +41,16 @@ body {
     
     .white{
     border: 1px solid #DFD5C5;
-    width: 10%;
-    height: 10%;
+    width: 12.5%;
+    height: 12.5%;
     background-color: #DFD5C5;
     float:left;
     }
     
     .black{
     border: 1px solid #4C3A2B;
-    width: 10%;
-    height: 10%;
+    width: 12.5%;
+    height: 12.5%;
     background-color: #5E4E42;
     float:left;
     }
