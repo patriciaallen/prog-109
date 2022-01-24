@@ -25,10 +25,10 @@ body {
     }
     
     #container {
-    padding-top: 100px;
-    width: 700px;
-    height: 600px;
-    margin: auto;
+    margin-top:20%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:5%;
     }
     
     .row{
@@ -40,7 +40,7 @@ body {
     .white{
     border: 1px solid #DFD5C5;
     width: 10%;
-    height: 10%;
+    height: 60px;
     background-color: #DFD5C5;
     float:left;
     }
@@ -48,7 +48,7 @@ body {
     .black{
     border: 1px solid #4C3A2B;
     width: 10%;
-    height: 10%;
+    height: 60px;
     background-color: #5E4E42;
     float:left;
     }
