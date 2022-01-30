@@ -11,6 +11,7 @@ background-color: lightyellow;
 margin: 1%;
 padding: 0.5em;
 border: 5px solid black;
+  margin: auto;
 }
 
 ul {
@@ -39,7 +40,7 @@ overflow:auto;
 background-color: lightyellow;
 border: 5px solid black;
 padding: 0.5em;
-margin: 0.5em;
+margin: auto;
 width: 800px;
 }
 
@@ -47,7 +48,7 @@ h1, h2, h3, h4 {
 background-color: lightgreen;
 padding: 0.5em;
 border: 5px solid black;
-margin: 0.5em;
+margin: auto;
 width: 800px;
 text-align: center;
 }
@@ -57,5 +58,6 @@ background-color:lightsteelblue;
 border: 5px solid black;
 padding: 0.5em;
 width: 800px;
+margin: auto;
 text-align: center;
 }
