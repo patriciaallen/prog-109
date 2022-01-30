@@ -9,7 +9,9 @@ font-style: normal;
 #nav {
 background-color: lightyellow;
 margin: 1%;
-padding: 0.5em
+padding: 0.5em;
+border-width: 5px;
+border-color: black;
 }
 
 ul {
@@ -38,5 +40,18 @@ overflow:auto;
 background-color: lightyellow;
 border-width: 5px;
 padding: 0.5em;
+border-color: black;
 }
 
+h1, h2, h3, h4 {
+background-color: lightgreen;
+padding: 0.5em;
+border-width: 5px;
+border-color: black;
+}
+
+p {
+background-color:lightsteelblue;
+border-width: 5px;
+border-color: black;
+}
