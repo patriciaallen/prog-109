@@ -1,0 +1,42 @@
+body {
+background-image: url("https://st2.depositphotos.com/3549671/10496/v/950/depositphotos_104962758-stock-illustration-seamless-vector-background-with-delicate.jpg?forcejpeg=true");  
+text-align: center;
+font-family: 'LieraSansRegular';
+font-weight: normal;
+font-style: normal;
+}
+
+#nav {
+background-color: lightyellow;
+margin: 1%;
+padding: 0.5em
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+padding: 8px;
+background-color: lightyellow;
+}
+
+
+#content {
+overflow:auto;
+}
+
+.description {
+background-color: lightyellow;
+border-width: 5px;
+padding: 0.5em;
+}
+
