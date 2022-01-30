@@ -31,6 +31,13 @@ padding: 8px;
 background-color: lightyellow;
 }
 
+.link {
+background-color: lightyellow;
+border: 5px solid black;
+padding: 0.5em;
+margin: auto;
+width: 800px;
+}
 
 #content {
 overflow:auto;
