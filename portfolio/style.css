@@ -23,6 +23,7 @@ overflow: hidden;
 
 li {
 float: left;
+text-align: center;
 }
 
 li a {
