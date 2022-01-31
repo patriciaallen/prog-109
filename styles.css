@@ -4,7 +4,11 @@ color : #665544;
 padding : 0 15% 0 15%;
 }
 h1 {
+font-family : 'DancingScriptRegular';
+font-weight : normal;
+font-style : normal;
 text-align : center;
+font-size : 400%;
 color : blue;
 }
 p {
