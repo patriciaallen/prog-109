@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+
          <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/liera-sans" type="text/css"/>
         <link rel="stylesheet" media="screen" href="https://patriciaallen.github.io/prog-109/portfolio/style.css" type="text/css"/>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
     <title>Contact Me</title>
-    </head>
-
+   
 <body>
 
     <h1>Contact Me</h1>
