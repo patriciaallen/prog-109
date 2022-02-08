@@ -3,7 +3,7 @@
 <head>
 <meta name="description" content="Artifact 3 - Rhombus Example">
 <meta charset="utf-8">
-  <link rel="stylesheet" media="screen" href="https://patriciaallen.github.io/prog-109/rhombus/style.css" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="patriciaallen.github.io/prog-109/rhombus/style.css">
 <title>Artifact 3 - Rhombus</title>
 </head>
 <body>
@@ -12,30 +12,30 @@
 <br>
 <label>Choose color for Even position</label><br>
 <select id="colorEven">
-<option value="#900C3F">Dark Pink</option>
-<option value="#FFC300">Yellow</option>
-<option value="#581845">Purple</option>
+<option value="#903784">Purple</option>
+<option value="#906F37">Gold</option>
+<option value="#849037">Yellow-Green</option>
 </select><br>
 
 <label>Choose color for Odd position</label><br>
 <select id="colorOdd">
-<option value="#C70039">Red</option>
-<option value="#DAF7A6">Light Green</option>
-<option value="#FF5733">Orange</option>
+<option value="#904337">Red</option>
+<option value="#579037">Green</option>
+<option value="#903757">Pink</option>
 </select>
 <br>
 <label>Choose symbol for Rhombus</label>
 <select id="symbol">
 <option value="=">=</option>
-<option value="+">+</option>
-<option value="!">!</option>
+<option value="8">8</option>
+<option value="#">#</option>
 </select>
 <br>
 <button onclick="createRhombus(document.getElementById('rHeight').value,
 document.getElementById('colorEven').value,
 document.getElementById('colorOdd').value,
 document.getElementById('symbol').value);">Display Rhombus</button>
-<div id="upLeft">Rhombus</div>
+<div id="upLeft"></div>
 <div id="upRight"></div>
 
 <div class="clear"></div>
@@ -52,3 +52,4 @@ document.getElementById('symbol').value);">Display Rhombus</button>
 
 </body>
 </html>
+
