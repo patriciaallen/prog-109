@@ -1,19 +1,23 @@
 #upLeft {
-float: left;
+    float: left;
+    
+    }
+    #downLeft {
+    float: left;
+    }
+    #upRight {
+    
+    float: left;
+    }
+    
+    #downRight {
+    
+    float: left;
+    }
+    .clear {
+    clear: both;
+    }
 
-}
-#downLeft {
-float: left;
-}
-#upRight {
-
-float: left;
-}
-
-#downRight {
-
-float: left;
-}
-.clear {
-clear: both;
-}
+    .space {
+    color:white;
+    }
