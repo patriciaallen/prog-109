@@ -26,8 +26,8 @@ function Hotel(name, rooms, booked) {
   var elHotel2 = document.getElementById('hotel2');
   elHotel2.textContent = details2;
   
-var details3 = sunsetHotel.name + ' rooms: ';
-details3 += sunsetHotel.checkAvailabality();
+var details3 = hotel3.name + ' rooms: ';
+details3 += hotel3.checkAvailabality();
 var elHotel3 = document.getElementById('hotel3');
 elHotel3.textContent = details3;
 
